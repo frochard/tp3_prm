@@ -49,7 +49,7 @@ public class Main {
         vocabulaire.add("TOGAF");
         vocabulaire.add("Microsoft");
         vocabulaire.add("Windows");
-        vocabulaire.add("(Neurosciences");
+        vocabulaire.add("Neurosciences");
         vocabulaire.add("Java");
         vocabulaire.add("Anglais");
         vocabulaire.add("JBoss");
